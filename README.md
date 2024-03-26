@@ -5,6 +5,8 @@ Aplikasi ini merupakan aplikasi Android yang dibangun menggunakan bahasa pemrogr
 ## Fitur Utama
 - Menampilkan daftar pengguna (user) dalam bentuk list.
 - Memungkinkan pencarian pengguna berdasarkan nama atau informasi lainnya.
+- Menambahkan pengguna ke dalam daftar favorit.
+- Mode gelap (dark mode).
 
 ## Teknologi yang Digunakan
 - **Kotlin:** Kotlin digunakan sebagai bahasa pemrograman utama dalam pengembangan aplikasi ini. Kotlin adalah bahasa pemrograman modern yang dapat berjalan di atas platform Android dengan baik. Dengan Kotlin, pengembang dapat menulis kode yang lebih ringkas dan ekspresif dibandingkan dengan Java.
